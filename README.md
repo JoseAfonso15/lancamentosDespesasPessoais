@@ -36,7 +36,7 @@ O index.php não está mais na raiz do projeto! Foi movido para dentro da pasta 
 Isso significa que você deve configurar seu servidor da Web para "apontar" para a pasta * public * do seu projeto e não para a raiz do projeto. Uma prática melhor seria configurar um host virtual para apontar para lá. Uma prática ruim seria apontar o servidor da Web para a raiz do projeto e esperar inserir * public /...*, como o restante de sua lógica e estrutura são expostos.
 
 Base de Dados
-Use o script slq.php para criar a base de dados que é utilizada no projeto.
+Use o script script.php para criar a base de dados que é utilizada no projeto.
  
 Teste
 Agora se tudo estiver correto, basta acessar o seu localhost e será exibido redirecionado para a pagina de login.O usuário padrão é admin abc123
